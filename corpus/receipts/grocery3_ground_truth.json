@@ -1,0 +1,28 @@
+{
+  "doc_id": "receipts_grocery3",
+  "doc_type": "receipt",
+  "fields": {
+    "merchant_name": "Cotco Wholesale",
+    "merchant_address": "1212 Pine Wood Plaza Dr, Green Town, CA 34343",
+    "merchant_phone": null,
+    "receipt_number": "2577049117",
+    "transaction_date": "08/19/2021",
+    "transaction_time": "17:58:17",
+    "subtotal": "576.89",
+    "tax_amount": "102.67",
+    "tip": null,
+    "discount": null,
+    "total": "679.56",
+    "payment_method": "Visa",
+    "store_number": "5208",
+    "notes": null
+  },
+  "annotator_notes": "three-rate tax (S/E/A) summed to 102.67; all 5 items annotated",
+  "items": [
+    {"description": "BANANAS", "quantity": 1, "unit_price": "1.67", "line_total": "1.67"},
+    {"description": "Bluetooth Care", "quantity": 1, "unit_price": "122.34", "line_total": "122.34"},
+    {"description": "Dinning Table", "quantity": 1, "unit_price": "422.99", "line_total": "422.99"},
+    {"description": "Wine Bottle", "quantity": 1, "unit_price": "9.99", "line_total": "9.99"},
+    {"description": "Beer Case", "quantity": 1, "unit_price": "19.90", "line_total": "19.90"}
+  ]
+}

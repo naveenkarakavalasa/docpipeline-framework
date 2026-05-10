@@ -1,0 +1,25 @@
+{
+  "doc_id": "receipts_IMG_3830",
+  "doc_type": "receipt",
+  "fields": {
+    "merchant_name": "United States Postal Service",
+    "merchant_address": "Middletown, DE 19709",
+    "merchant_phone": null,
+    "receipt_number": "9589 0710 5270 2439 2590 49",
+    "transaction_date": "05/19/2025",
+    "transaction_time": null,
+    "subtotal": null,
+    "tax_amount": null,
+    "tip": null,
+    "discount": null,
+    "total": "7.72",
+    "payment_method": null,
+    "store_number": null,
+    "notes": "Certified Mail receipt stub; sent to Box 68597, Harrisburg PA 17106"
+  },
+  "annotator_notes": "USPS PS Form 3800 certified mail receipt stub; tracking number on left edge; postmark MAY 19 2025; companion to IMG_3829 POS receipt",
+  "items": [
+    {"description": "Certified Mail Fee", "quantity": 1, "unit_price": "4.85", "line_total": "4.85"},
+    {"description": "Postage", "quantity": 1, "unit_price": "2.87", "line_total": "2.87"}
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "doc_id": "receipts_IMG_3828",
+  "doc_type": "receipt",
+  "fields": {
+    "merchant_name": "ALDI",
+    "merchant_address": "1002 Bunker Hill Rd, Middletown, DE",
+    "merchant_phone": null,
+    "receipt_number": "08266D",
+    "transaction_date": "11/22/25",
+    "transaction_time": "07:46 PM",
+    "subtotal": "6.97",
+    "tax_amount": "0.00",
+    "tip": null,
+    "discount": null,
+    "total": "6.97",
+    "payment_method": "Visa",
+    "store_number": "159"  ,
+    "notes": null
+  },
+  "annotator_notes": "tax-free receipt; all 3 items annotated; VISA online payment",
+  "items": [
+    {"description": "Sour Cream", "quantity": 1, "unit_price": "1.79", "line_total": "1.79"},
+    {"description": "Multi-Peppers 3pk", "quantity": 1, "unit_price": "2.39", "line_total": "2.39"},
+    {"description": "2% Shredded Cheese", "quantity": 1, "unit_price": "2.79", "line_total": "2.79"}
+  ]
+}

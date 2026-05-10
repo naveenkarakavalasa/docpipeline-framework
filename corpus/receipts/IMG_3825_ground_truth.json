@@ -1,0 +1,32 @@
+{
+  "doc_id": "receipts_IMG_3825",
+  "doc_type": "receipt",
+  "fields": {
+    "merchant_name": "Costco Wholesale",
+    "merchant_address": "900 Center Blvd, Christiana, DE 19702",
+    "merchant_phone": null,
+    "receipt_number": "532600011689",
+    "transaction_date": "11/22/2025",
+    "transaction_time": "17:39",
+    "subtotal": "119.21",
+    "tax_amount": "0.00",
+    "tip": null,
+    "discount": "4.00",
+    "total": "119.21",
+    "payment_method": "Visa",
+    "store_number": "246",
+    "notes": null
+  },
+  "annotator_notes": "tax-free receipt; INSTANT SAVINGS 4.00 is applied discount; all 9 items annotated; 4.00- line is discount not item",
+  "items": [
+    {"description": "DIFFUSER SET", "quantity": 1, "unit_price": "19.99", "line_total": "19.99"},
+    {"description": "THERMOFLASK", "quantity": 1, "unit_price": "19.99", "line_total": "19.99"},
+    {"description": "KS ORG 2% MK", "quantity": 1, "unit_price": "12.49", "line_total": "12.49"},
+    {"description": "MINI COOKIE", "quantity": 1, "unit_price": "9.99", "line_total": "9.99"},
+    {"description": "DRAGON FRUIT", "quantity": 1, "unit_price": "7.99", "line_total": "7.99"},
+    {"description": "SNZU TODDLR J", "quantity": 1, "unit_price": "21.99", "line_total": "21.99"},
+    {"description": "ORG PRCT BAR", "quantity": 1, "unit_price": "19.99", "line_total": "19.99"},
+    {"description": "COCKTAIL TOM", "quantity": 1, "unit_price": "5.99", "line_total": "5.99"},
+    {"description": "3LB ORG GALA", "quantity": 1, "unit_price": "4.79", "line_total": "4.79"}
+  ]
+}

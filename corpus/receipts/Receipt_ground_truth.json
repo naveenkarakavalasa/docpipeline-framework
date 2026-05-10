@@ -1,0 +1,33 @@
+{
+  "doc_id": "receipts_Receipt",
+  "doc_type": "receipt",
+  "fields": {
+    "merchant_name": "Walmart",
+    "merchant_address": "Middletown, DE",
+    "merchant_phone": "302-449-1254",
+    "receipt_number": "2951 6241 3624 2596 2605 7",
+    "transaction_date": "02/15/26",
+    "transaction_time": "12:30:00",
+    "subtotal": "206.27",
+    "tax_amount": "0.00",
+    "tip": null,
+    "discount": null,
+    "total": "206.27",
+    "payment_method": "Visa Credit",
+    "store_number": "3802",
+    "notes": null
+  },
+  "annotator_notes": "items truncated at 10 of 39; TC# used as receipt_number; phone number from store header; tax-free receipt",
+  "items": [
+    {"description": "ENF GE NP 2", "quantity": 1, "unit_price": "37.84", "line_total": "37.84"},
+    {"description": "ENF GE NP 2", "quantity": 1, "unit_price": "37.84", "line_total": "37.84"},
+    {"description": "7PKT CHECK", "quantity": 1, "unit_price": "5.84", "line_total": "5.84"},
+    {"description": "POLY FOLDER", "quantity": 1, "unit_price": "1.22", "line_total": "1.22"},
+    {"description": "POLY FOLDER", "quantity": 1, "unit_price": "1.22", "line_total": "1.22"},
+    {"description": "SWN BROTH 1", "quantity": 1, "unit_price": "1.28", "line_total": "1.28"},
+    {"description": "SWN BROTH 1", "quantity": 1, "unit_price": "1.28", "line_total": "1.28"},
+    {"description": "SWN BROTH 1", "quantity": 1, "unit_price": "1.28", "line_total": "1.28"},
+    {"description": "GRD TKY 93", "quantity": 1, "unit_price": "5.48", "line_total": "5.48"},
+    {"description": "GV 41-60 RA", "quantity": 1, "unit_price": "6.87", "line_total": "6.87"}
+  ]
+}

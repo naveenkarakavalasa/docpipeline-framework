@@ -1,0 +1,26 @@
+{
+  "doc_id": "receipts_IMG_3817",
+  "doc_type": "receipt",
+  "fields": {
+    "merchant_name": "Food Lion",
+    "merchant_address": null,
+    "merchant_phone": null,
+    "receipt_number": "0125",
+    "transaction_date": "03/04/2026",
+    "transaction_time": "18:15:09",
+    "subtotal": null,
+    "tax_amount": null,
+    "tip": null,
+    "discount": null,
+    "total": "19.25",
+    "payment_method": "Visa",
+    "store_number": "01369",
+    "notes": null
+  },
+  "annotator_notes": "tax-free receipt; 3 items only; YOU COULD HAVE SAVED 2.50 is promotional not applied discount; subtotal not printed",
+  "items": [
+    {"description": "NP WHOLE LEGS", "quantity": 1, "unit_price": null, "line_total": "4.40"},
+    {"description": "PERDUE DRUMSTICKS", "quantity": 1, "unit_price": null, "line_total": "5.86"},
+    {"description": "BE HAPPY BOUQUET", "quantity": 1, "unit_price": null, "line_total": "8.99"}
+  ]
+}

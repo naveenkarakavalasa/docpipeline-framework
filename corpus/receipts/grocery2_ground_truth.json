@@ -1,0 +1,33 @@
+{
+  "doc_id": "receipts_grocery2",
+  "doc_type": "receipt",
+  "fields": {
+    "merchant_name": "Walmart",
+    "merchant_address": "8801 Ohio Dr, Plano TX 75024",
+    "merchant_phone": "(972) 731-9576",
+    "receipt_number": "TC# 0243 0702 1923 5163 4126",
+    "transaction_date": "07/29/14",
+    "transaction_time": "13:57:53",
+    "subtotal": "84.16",
+    "tax_amount": "6.16",
+    "tip": null,
+    "discount": null,
+    "total": "90.32",
+    "payment_method": "Debit",
+    "store_number": "2883",
+    "notes": null
+  },
+  "annotator_notes": "items truncated at 10 of 12",
+  "items": [
+    {"description": "COM 3PC SET", "quantity": 1, "unit_price": "9.44", "line_total": "9.44"},
+    {"description": "COM 3PK BDS", "quantity": 1, "unit_price": "7.24", "line_total": "7.24"},
+    {"description": "COM BDS", "quantity": 1, "unit_price": "7.24", "line_total": "7.24"},
+    {"description": "DR SMITHS", "quantity": 1, "unit_price": "7.97", "line_total": "7.97"},
+    {"description": "COM 2PK HAIR", "quantity": 1, "unit_price": "4.97", "line_total": "4.97"},
+    {"description": "BABY WIPES", "quantity": 1, "unit_price": "1.97", "line_total": "1.97"},
+    {"description": "COM 4PK SOCK", "quantity": 1, "unit_price": "4.97", "line_total": "4.97"},
+    {"description": "COM 4PK SOCK", "quantity": 1, "unit_price": "4.97", "line_total": "4.97"},
+    {"description": "1P OPU G 0/3", "quantity": 1, "unit_price": "2.00", "line_total": "2.00"},
+    {"description": "PAMPERS", "quantity": 1, "unit_price": "24.94", "line_total": "24.94"}
+  ]
+}

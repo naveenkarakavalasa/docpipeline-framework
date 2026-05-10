@@ -1,0 +1,29 @@
+{
+  "doc_id": "receipts_IMG_3827",
+  "doc_type": "receipt",
+  "fields": {
+    "merchant_name": "Taco Bell",
+    "merchant_address": "582 Middletown Warwick Rd, Middletown, DE 19709",
+    "merchant_phone": "302-378-0406",
+    "receipt_number": "237",
+    "transaction_date": "07/23/2025",
+    "transaction_time": "05:58 PM",
+    "subtotal": "20.85",
+    "tax_amount": "0.00",
+    "tip": null,
+    "discount": null,
+    "total": "20.85",
+    "payment_method": "Visa Debit",
+    "store_number": "040061",
+    "notes": null
+  },
+  "annotator_notes": "store number 040061 embedded in merchant name on receipt; tax-free; Visa Debit per APL field; substitution lines annotated as separate items",
+  "items": [
+    {"description": "Beef Soft Taco Sup", "quantity": 1, "unit_price": "2.99", "line_total": "2.99"},
+    {"description": "Beef Soft Taco Sup", "quantity": 2, "unit_price": "2.99", "line_total": "5.98"},
+    {"description": "Nachos BellGrande", "quantity": 1, "unit_price": "7.19", "line_total": "7.19"},
+    {"description": "Chicken substitution", "quantity": 1, "unit_price": "0.70", "line_total": "0.70"},
+    {"description": "MED Mango Refresca", "quantity": 1, "unit_price": "3.99", "line_total": "3.99"},
+    {"description": "Hot Sauce", "quantity": 4, "unit_price": "0.00", "line_total": "0.00"}
+  ]
+}

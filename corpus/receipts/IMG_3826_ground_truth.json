@@ -1,0 +1,24 @@
+{
+  "doc_id": "receipts_IMG_3826",
+  "doc_type": "receipt",
+  "fields": {
+    "merchant_name": null,
+    "merchant_address": null,
+    "merchant_phone": null,
+    "receipt_number": "528911",
+    "transaction_date": "5/19/25",
+    "transaction_time": null,
+    "subtotal": null,
+    "tax_amount": null,
+    "tip": null,
+    "discount": null,
+    "total": "200.00",
+    "payment_method": "Cash",
+    "store_number": null,
+    "notes": "Daycare payment; period 5/19 to 5/23; received from Myra"
+  },
+  "annotator_notes": "handwritten generic receipt form; no merchant name printed; CASH checkbox ticked; Used Credit text may refer to credit toward balance not payment method",
+  "items": [
+    {"description": "Daycare services 5/19 to 5/23", "quantity": 1, "unit_price": "200.00", "line_total": "200.00"}
+  ]
+}

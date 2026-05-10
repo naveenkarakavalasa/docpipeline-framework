@@ -1,0 +1,27 @@
+{
+  "doc_id": "receipts_receipt1",
+  "doc_type": "receipt",
+  "fields": {
+    "merchant_name": "Marshalls",
+    "merchant_address": "911 Topsy Lane Ste. 114, Carson City, NV 89705",
+    "merchant_phone": "775-267-3403",
+    "receipt_number": null,
+    "transaction_date": null,
+    "transaction_time": null,
+    "subtotal": "88.97",
+    "tax_amount": "6.32",
+    "tip": null,
+    "discount": null,
+    "total": "95.29",
+    "payment_method": "AMEX",
+    "store_number": null,
+    "notes": null
+  },
+  "annotator_notes": "date and time not visible on receipt image; all 4 items annotated; item codes stripped from descriptions",
+  "items": [
+    {"description": "JR DRS/SWTR/JK", "quantity": 1, "unit_price": "19.99", "line_total": "19.99"},
+    {"description": "KNITWEAR CASU", "quantity": 1, "unit_price": "19.99", "line_total": "19.99"},
+    {"description": "DRESSES", "quantity": 1, "unit_price": "24.99", "line_total": "24.99"},
+    {"description": "LADIES FTWR", "quantity": 1, "unit_price": "24.00", "line_total": "24.00"}
+  ]
+}

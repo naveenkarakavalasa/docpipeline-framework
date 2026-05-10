@@ -1,0 +1,31 @@
+{
+  "doc_id": "receipts_IMG_3815",
+  "doc_type": "receipt",
+  "fields": {
+    "merchant_name": "Newark Farmers Market",
+    "merchant_address": "2515 Kirkwood Hwy, Newark, DE 19711",
+    "merchant_phone": "(302) 894-0895",
+    "receipt_number": "04-1823917",
+    "transaction_date": "03/07/2026",
+    "transaction_time": "11:59:07",
+    "subtotal": "61.66",
+    "tax_amount": null,
+    "tip": null,
+    "discount": "2.03",
+    "total": "61.66",
+    "payment_method": "Visa Credit",
+    "store_number": null,
+    "notes": "Perishable items must be returned within 24 hours"
+  },
+  "annotator_notes": "tax-free receipt; discount shown as YOU SAVED 2.03; all 8 items annotated; weighted items show per-lb price in unit_price",
+  "items": [
+    {"description": "STORE BAG", "quantity": 1, "unit_price": "1.50", "line_total": "1.50"},
+    {"description": "MANGO HADEN", "quantity": null, "unit_price": "3.29", "line_total": "11.05"},
+    {"description": "Seafood", "quantity": 1, "unit_price": null, "line_total": "6.44"},
+    {"description": "Seafood", "quantity": 1, "unit_price": null, "line_total": "14.29"},
+    {"description": "Seafood", "quantity": 1, "unit_price": null, "line_total": "18.65"},
+    {"description": "Produce", "quantity": 1, "unit_price": null, "line_total": "2.06"},
+    {"description": "BANANA YELLOW", "quantity": null, "unit_price": "0.39", "line_total": "0.82"},
+    {"description": "LYCHEE", "quantity": null, "unit_price": "4.89", "line_total": "6.85"}
+  ]
+}

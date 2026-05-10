@@ -1,0 +1,26 @@
+{
+  "doc_id": "receipts_IMG_3829",
+  "doc_type": "receipt",
+  "fields": {
+    "merchant_name": "United States Postal Service",
+    "merchant_address": "298 E Main St, Middletown, DE 19709",
+    "merchant_phone": "(800) 275-8777",
+    "receipt_number": "840-50800317-4-8165530-1",
+    "transaction_date": "05/19/2025",
+    "transaction_time": "01:51 PM",
+    "subtotal": null,
+    "tax_amount": null,
+    "tip": null,
+    "discount": null,
+    "total": "18.82",
+    "payment_method": "Visa Credit",
+    "store_number": null,
+    "notes": "Two certified mail items; all sales final on stamps and postage"
+  },
+  "annotator_notes": "USPS receipt; no subtotal line — Grand Total used; two certified mail items each totaling 7.72; tracking numbers not annotated as items",
+  "items": [
+    {"description": "Mailer 10.5x16", "quantity": 2, "unit_price": "1.69", "line_total": "3.38"},
+    {"description": "First-Class Mail Large Envelope + Certified Mail", "quantity": 1, "unit_price": null, "line_total": "7.72"},
+    {"description": "First-Class Mail Large Envelope + Certified Mail", "quantity": 1, "unit_price": null, "line_total": "7.72"}
+  ]
+}

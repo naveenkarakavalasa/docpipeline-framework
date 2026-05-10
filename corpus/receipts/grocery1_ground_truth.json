@@ -1,0 +1,33 @@
+{
+  "doc_id": "receipts_grocery1",
+  "doc_type": "receipt",
+  "fields": {
+    "merchant_name": "Target",
+    "merchant_address": null,
+    "merchant_phone": null,
+    "receipt_number": null,
+    "transaction_date": "03/06/2016",
+    "transaction_time": "05:25 PM",
+    "subtotal": "246.00",
+    "tax_amount": "17.38",
+    "tip": null,
+    "discount": "11.55",
+    "total": "251.83",
+    "payment_method": "RedCard",
+    "store_number": null,
+    "notes": "REDcard savings applied; multiple item-level discounts"
+  },
+  "annotator_notes": "items truncated at 10; two MO tax lines summed to 17.38",
+  "items": [
+    {"description": "UPUP HOUSEH", "quantity": 1, "unit_price": "1.94", "line_total": "1.94"},
+    {"description": "OREO COOKIE", "quantity": 2, "unit_price": "2.99", "line_total": "5.98"},
+    {"description": "NATVAL ENER", "quantity": 1, "unit_price": "5.89", "line_total": "5.89"},
+    {"description": "MOTTS FRTSN", "quantity": 1, "unit_price": "1.50", "line_total": "1.50"},
+    {"description": "MOTTS FRTSN", "quantity": 3, "unit_price": "1.50", "line_total": "4.50"},
+    {"description": "V8", "quantity": 1, "unit_price": "4.19", "line_total": "4.19"},
+    {"description": "OSCAR MAYER", "quantity": 1, "unit_price": "2.50", "line_total": "2.50"},
+    {"description": "OSCAR MAYER", "quantity": 1, "unit_price": "3.07", "line_total": "3.07"},
+    {"description": "NAKED", "quantity": 1, "unit_price": "2.50", "line_total": "2.50"},
+    {"description": "TOMATO", "quantity": 1, "unit_price": "0.99", "line_total": "0.99"}
+  ]
+}
