@@ -1,7 +1,6 @@
 # DocPipeline Framework
 
-A production framework for reliable enterprise document AI extraction,
-validation, and human-in-the-loop governance.
+DocPipeline Framework is a research implementation of a production-oriented enterprise document extraction architecture combining Azure Document Intelligence, LLM-assisted field recovery, semantic validation, arithmetic verification, and confidence-aware human review escalation. The framework prioritizes reliability over benchmark-only accuracy through document-type-aware validators and the principle of “prefer blank over wrong.
 
 ## Paper
 
@@ -10,6 +9,10 @@ Framework for Scalable Document Extraction, Validation, and
 Human-in-the-Loop Governance"
 
 *Citation will be added upon publication.*
+
+## Architecture 
+<img width="1795" height="1780" alt="Figure1 Architecture" src="https://github.com/user-attachments/assets/67c96aea-b56d-4a5b-9d29-c70b33a2b173" />
+
 
 ## What This Repository Contains
 validators/
