@@ -36,8 +36,6 @@ corpus/receipts/              # 13 annotated real-world receipts
     *.jpg / *.jpeg / *.png / *.pdf    # Receipt images
     *_ground_truth.json               # Field-level annotations
 extraction_orchestrator.py    # Five-stage pipeline entry point
-paper/
-    paper_enterprise_doc_ai_pipeline.md  # Manuscript
 
 ## Corpus
 
@@ -52,7 +50,7 @@ paper/
 Each document includes a `_ground_truth.json` with field-level
 annotations across 14 registry fields. License: CC BY 4.0.
 
-Full dataset also archived at: [ZENODO-DOI-PLACEHOLDER]
+Full dataset also archived at: https://doi.org/10.5281/zenodo.20113972
 
 ## Requirements
 
